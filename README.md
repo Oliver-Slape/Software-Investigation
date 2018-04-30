@@ -94,10 +94,12 @@
 ### As a game player, I want to have fun by interacting with the app so that I stay engaged and interested.
 ### As a game player, I want to play on the app within each habitat and for it to be clear which habitat I am playing in during gameplay so that I can make sure I am at the write habitat in the zoo.
 ### As a game player, I want to be presented with interesting facts so that I can learn as I play.
-### Timeline within the game
 ### As a game player, I want to play mini games, collect points and see my position on a leader board against other users so I can try and reach first place.
 ### As a teacher, I want to see all the pledges made in a ranked order so that I can discuss these with my class, and gain a commitment from each student.
 
+## Task Breakdown
+
+### Timeline within the game
 ### Condense each greenhouse gas timeline into short sentences (max. 3 lines of text, font size 14)
 ### Build timeline in Unity using assets from ‘Wooden GUI’ pack
 ### Build timeline to display to the user as they progress through each mini game (based on user speed of game completion to ensure full timeline is displayed to every user)
