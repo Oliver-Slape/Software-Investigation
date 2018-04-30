@@ -4,7 +4,7 @@
 ### In this 2D web application game, the player(s) will participate in four educational mini games to help save the world whilst learning about the effects of greenhouse gases on the world. The app also provides a closer look at the greenhouse gases timeline for four products; mobile phones, beef, leaving electronic devices on standby and plastic bottles.
 
 ## User requirements 
-### ZSL Whipsnade and London Zoo require an app to be created for 11-16 year old school students. The students will use the app during a ‘Climate Change and Animals’ session, which will be delivered at both Zoos.
+### ZSL Whipsnade and London Zoo require an app to be created for 11-16-year-old school students. The students will use the app during a ‘Climate Change and Animals’ session, which will be delivered at both Zoos.
 
 ### In the app, school students will construct a greenhouse gas chain (like a food chain). This chain will follow the ‘greenhouse gas footprint’ of four different products, from their production to their disposal (a mobile phone, beef, a plastic bottle and electronics left on standby). As the chain forms, the greenhouse gas footprint (how many greenhouse gases are emitted) could visually add up. Once the chain is fully constructed, students will be able to explore actions they could take to help reduce the ‘greenhouse gas footprint’ of each product. Remember these actions need to be applicable for 11-16 year olds! (E.g. unplug their mobile phone charger once the device is fully charged.)
 
@@ -87,12 +87,18 @@
 
 ![Epic]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/Epic.png)
 
+### For Example:
+#### An epic would be to teach about the greenhouse gasses.
+#### This was put into user stories as such;
+##### As a game player, I want to see the greenhouse gas timeline for mobile phones, beef, plastic bottles and leaving devices on standby so that I can learn about each stage
+##### As a game player, I want to learn what I can do to help minimise greenhouse gases so that I can implement these actions in my everyday life.
+
 ## Product/Sprint Backlog 
 ### User Stories
 ### As a game player, I want to see the greenhouse gas timeline for mobile phones, beef, plastic bottles and leaving devices on standby so that I can learn about each stage
 ### As a game player, I want to learn what I can do to help minimise greenhouse gases so that I can implement these actions in my everyday life.
 ### As a game player, I want to have fun by interacting with the app so that I stay engaged and interested.
-### As a game player, I want to play on the app within each habitat and for it to be clear which habitat I am playing in during gameplay so that I can make sure I am at the write habitat in the zoo.
+### As a game player, I want to play on the app within each habitat and for it to be clear which habitat I am playing in during gameplay so that I can make sure I am at the right habitat in the zoo.
 ### As a game player, I want to be presented with interesting facts so that I can learn as I play.
 ### As a game player, I want to play mini games, collect points and see my position on a leader board against other users so I can try and reach first place.
 ### As a teacher, I want to see all the pledges made in a ranked order so that I can discuss these with my class, and gain a commitment from each student.
@@ -140,4 +146,4 @@
 ##### Creativity and decision making in design.
 
 ## First Client Meeting (2nd OCT 2017)
-### The Client came in to present the requirements and outline what they wanted out of the project along with to set time constraints and deadlines. 
+### The Client came in to present the requirements and outline what they wanted out of the project along with to set time constraints and deadlines.
