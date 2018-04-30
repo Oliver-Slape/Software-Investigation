@@ -82,3 +82,44 @@
 #### Mini game 4: Arctic – Leaving electronic devices on standby
 #### A game in which players must unplug and turn off switches for electronic devices.
 
+### Meeting Requirements
+#### We translated the requirements set out by the client into Epics and User stories. This is part of the Agile Scrum project framework. The Epics are large requirements that can’t be divided into singular tasks. These are then split into user stories. These are descriptions of a feature from the user’s perspective. They generally follow this structure “As a < type of user >, I want < some goal > so that < some reason >. ". 
+
+![Epic]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/Epic.png)
+
+## Product/Sprint Backlog (as User Stories)
+### As a game player, I want to see the greenhouse gas timeline for mobile phones, beef, plastic bottles and leaving devices on standby so that I can learn about each stage
+### Condense each greenhouse gas timeline into short sentences (max. 3 lines of text, font size 14)
+### Build timeline in Unity using assets from ‘Wooden GUI’ pack
+### Build timeline to display to the user as they progress through each mini game (based on user speed of game completion to ensure full timeline is displayed to every user)
+
+### As a game player, I want to learn what I can do to help minimise greenhouse gases so that I can implement these actions in my everyday life.
+### Obtain a list of predefined pledges from ZSL
+### Design a ‘Pledge’ window
+### Allow entry of TWO pledges per team
+### Save pledges into database (alongside school name, team name and team character)
+
+### As a game player, I want to have fun by interacting with the app so that I stay engaged and interested.
+### Define mini games x 4
+### Design storyboards for each game
+### Obtain assets for each game
+### Build games
+
+### As a game player, I want to play on the app within each habitat and for it to be clear which habitat I am playing in during gameplay so that I can make sure I am at the write habitat in the zoo.
+### Create logos for each habitat (Rainforest, Ocean, Arctic Tundra & British Countryside)
+### Define colour schemes for each habitat
+### Create game play windows using colour schemes, cartoon animals from each habitat and logos/fonts
+
+### As a game player, I want to be presented with interesting facts so that I can learn as I play.
+### Timeline within the game
+### Facts will appear on the timeline
+### Each new fact appears when points are awarded
+
+### As a game player, I want to play mini games, collect points and see my position on a leader board against other users so I can try and reach first place.
+
+### As a teacher, I want to see all the pledges made in a ranked order so that I can discuss these with my class, and gain a commitment from each student.
+### Database will be used to collect all the pledges
+### Pledges will be calculated by each team 
+
+## Schedule
+![Gantt](https://github.com/Oliver-Slape/ZSL/blob/master/Gantt.fw.png)
