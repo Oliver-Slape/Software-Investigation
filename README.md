@@ -138,3 +138,6 @@
 ##### Time management in setting deadlines and a burn down chart. 
 ##### Evaluation and feedback in prototyping and testing. 
 ##### Creativity and decision making in design.
+
+## First Client Meeting (2nd OCT 2017)
+### The Client came in to present the requirements and outline what they wanted out of the project along with to set time constraints and deadlines. 
